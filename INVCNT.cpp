@@ -38,7 +38,7 @@ int main() {
             n = a[i] > n ? a[i] : n;
         } 
         for(int i = 0; i <= n; ++i)
-			BIT[i] = 0;
+		BIT[i] = 0;
         ll res = 0;
         for(int i = m-1; i >= 0; --i) {
             res += sum(a[i]);
