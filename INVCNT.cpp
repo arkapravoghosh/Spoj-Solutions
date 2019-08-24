@@ -36,7 +36,7 @@ int main() {
         for(int i = 0; i < m; ++i) {
             cin >> a[i];
             n = a[i] > n ? a[i] : n;
-        }
+        } 
         for(int i = 0; i <= n; ++i)
 			BIT[i] = 0;
         ll res = 0;
