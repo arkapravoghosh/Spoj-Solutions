@@ -1,4 +1,4 @@
-//https://www.spoj.com/problems/DISQUERY/
+// www.spoj.com/problems/DISQUERY/
 
 #include <bits/stdc++.h>
 using namespace std;
