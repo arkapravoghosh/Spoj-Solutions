@@ -1,4 +1,4 @@
-// Problem link - https://www.spoj.com/problems/BUGLIFE/
+// www.spoj.com/problems/BUGLIFE/
 
 #include <bits/stdc++.h>
 using namespace std;
