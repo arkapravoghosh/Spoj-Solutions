@@ -1,5 +1,5 @@
 // www.spoj.com/problems/GSS1/
-
+// Pull Request
 #include <bits/stdc++.h>
 using namespace std;
 
